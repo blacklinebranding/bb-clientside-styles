@@ -1,0 +1,39 @@
+/* Add to Clientside Front End CSS in Clientside Admin Tools */
+
+.fl-builder-bar .fl-builder-bar-content {
+  height:90px !important;
+  border-bottom:0px !important;
+  background:#F8F8FA !important;
+}
+
+.fl-builder-bar-title-area {
+  padding-top:8px;
+}
+
+.fl-builder-bar-title {
+  background: #e9ebec;
+  margin:20px;
+  border-right:0px;
+  border-radius:4px;
+}
+
+.fl-builder-bar-title:hover {
+  background: #E0E4E6;
+}
+
+.fl-builder-bar-actions {
+  padding:20px;
+}
+
+.fl-builder-bar-title-icon {
+  margin-left:24px;
+}
+
+/* Still need to add the following:
+
+- Move the top of the page down
+- Move the docked builder window down
+- Style the builder interface
+- Style the rest of the Publish buttons
+
+END */
